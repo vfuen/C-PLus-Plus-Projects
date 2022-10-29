@@ -1,0 +1,3 @@
+﻿  Pick a Card.cpp
+C:\Users\vfuen\source\repos\Pick a Card\Pick a Card\Pick a Card.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pick a Card.vcxproj -> C:\Users\vfuen\source\repos\Pick a Card\x64\Debug\Pick a Card.exe
