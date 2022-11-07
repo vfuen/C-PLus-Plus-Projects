@@ -1,0 +1,3 @@
+﻿  CheckingPalindromes.cpp
+C:\Users\vfuen\source\repos\CheckingPalindromes\CheckingPalindromes\CheckingPalindromes.cpp(15,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CheckingPalindromes.vcxproj -> C:\Users\vfuen\source\repos\CheckingPalindromes\x64\Debug\CheckingPalindromes.exe

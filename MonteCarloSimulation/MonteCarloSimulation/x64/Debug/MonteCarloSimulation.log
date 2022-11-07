@@ -1,0 +1,3 @@
+﻿  MonteCarloSimulation.cpp
+C:\Users\vfuen\source\repos\MonteCarloSimulation\MonteCarloSimulation\MonteCarloSimulation.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MonteCarloSimulation.vcxproj -> C:\Users\vfuen\source\repos\MonteCarloSimulation\x64\Debug\MonteCarloSimulation.exe
