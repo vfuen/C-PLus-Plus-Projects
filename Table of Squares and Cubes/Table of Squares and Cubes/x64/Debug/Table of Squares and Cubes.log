@@ -1,0 +1,4 @@
+﻿  Table of Squares and Cubes.cpp
+C:\Users\vfuen\source\repos\Table of Squares and Cubes\Table of Squares and Cubes\Table of Squares and Cubes.cpp(38,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vfuen\source\repos\Table of Squares and Cubes\Table of Squares and Cubes\Table of Squares and Cubes.cpp(65,2): error C2059: syntax error: '}'
+C:\Users\vfuen\source\repos\Table of Squares and Cubes\Table of Squares and Cubes\Table of Squares and Cubes.cpp(65,2): error C2143: syntax error: missing ';' before '}'
