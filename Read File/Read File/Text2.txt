@@ -1,0 +1,12 @@
+
+ Tim Hanes Average is 82.275
+
+
+ Chris Walks Average is 84.775
+
+
+ Mary Skills Average is 87.35
+
+
+ Bobby Shakes Average is 88.2
+

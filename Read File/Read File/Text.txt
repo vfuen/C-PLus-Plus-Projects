@@ -1,0 +1,4 @@
+                Tim Hanes 78.3 98.0 80.5 72.3 0
+                Chris Walks 88.3 88.0 80.5 82.3 0
+                Mary Skills 98.3 98.0 80.5 72.6 0
+                Bobby Shakes 99.2 85.6 81.3 86.7 0
