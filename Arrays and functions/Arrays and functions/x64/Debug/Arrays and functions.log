@@ -1,0 +1,3 @@
+﻿  Arrays and functions.cpp
+C:\Users\vfuen\source\repos\Arrays and functions\Arrays and functions\Arrays and functions.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arrays and functions.vcxproj -> C:\Users\vfuen\source\repos\Arrays and functions\x64\Debug\Arrays and functions.exe
