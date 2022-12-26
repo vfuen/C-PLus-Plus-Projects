@@ -1,0 +1,5 @@
+﻿  Calendar.cpp
+C:\Users\vfuen\source\repos\Calendar\Calendar\Calendar.cpp(1,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vfuen\source\repos\Calendar\Calendar\Calendar.cpp(1,5): error C2146: syntax error: missing ';' before identifier 'following'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
