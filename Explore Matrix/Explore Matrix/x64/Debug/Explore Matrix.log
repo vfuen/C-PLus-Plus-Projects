@@ -1,0 +1,3 @@
+﻿  Explore Matrix.cpp
+C:\Users\vfuen\source\repos\Explore Matrix\Explore Matrix\Explore Matrix.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Explore Matrix.vcxproj -> C:\Users\vfuen\source\repos\Explore Matrix\x64\Debug\Explore Matrix.exe
